@@ -1,0 +1,8 @@
+#margin {
+  margin: 10px;
+  border: solid 2px #00FA32;
+}
+#padding {
+  padding: 10px;
+  border: solid 2px
+}
